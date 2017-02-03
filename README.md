@@ -4,7 +4,7 @@ Task Manager is an android app that allows building a todo list and basic todo i
 
 Submitted by: Kamlakar Patil
 
-Time spent: 4 hours
+Time spent: 6 hours
 
 ## User Stories
 
